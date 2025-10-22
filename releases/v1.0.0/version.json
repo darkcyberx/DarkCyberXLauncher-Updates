@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "releaseDate": "2024-01-10",
-  "downloadUrl": "https://github.com/DarkCyberX/DarkCyberXLauncher-Updates/releases/download/v1.0.0/DarkCyberXLauncher.exe",
+  "downloadUrl": "https://github.com/darkcyberx/DarkCyberXLauncher-Updates/releases/download/v1.1.0/DarkCyberXLauncher.exe",
   "changelogUrl": "https://raw.githubusercontent.com/DarkCyberX/DarkCyberXLauncher-Updates/main/releases/v1.0.0/changelog.md",
   "minimumVersion": "0.9.0",
   "critical": false
